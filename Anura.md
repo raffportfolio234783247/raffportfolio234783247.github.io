@@ -1,0 +1,3 @@
+# AnuraOS
+
+[AnuraOS](https://beta.anura.pro/) is a browser based environment which fully runs an Operating System (OS) client side inside of the users browser, sandboxed away from the system. This project is useful for distributing applications which work seemlessly no matter the system. Unlike a traditional VDI system, this is backendless making it much less expensive to run as you dont need anything more than a [WISP](wisp) network proxy to enable networking in the OS.
